@@ -1,0 +1,24 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mstpierre73:K@roline1!@github.com/mstpierre73/demoapp.git"
+  },
+  "author": "Marise St-Pierre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstpierre73/demoapp/issues"
+  },
+  "homepage": "https://github.com/mstpierre73/demoapp#readme"
+}
